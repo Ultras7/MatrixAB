@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * Created by Bekbolat on 1/26/2017.
+ * Created by Ulan on 1/25/2017.
  */
 public class Matrix {
     public static void main(String[] args) {
