@@ -31,7 +31,7 @@ public class Matrix {
 
         for (int i = 0; i < res.length; i++) {
             for (int j = 0; j < res[0].length; j++) {
-                System.out.printf("%4d ", res[i][j]);
+                System.out.printf("%3d ", res[i][j]);
             }
             System.out.println();
         }
